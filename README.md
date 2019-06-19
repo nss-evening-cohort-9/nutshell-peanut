@@ -42,6 +42,9 @@ This is a personal website designed to keep track of four aspects of your life. 
 ## Installation Instructions
 * Clone down this repo
 * At the root of the project, run `npm install`
+* Create a firebase project
+* Create a new `apiKeys.json` file in the `helpers` folder
+* Copy over the information from `apiKeys.example.json` and input that info from your firebase project
 
 ## How to run
 * In the terminal, type `npm start` to run the webpage.
