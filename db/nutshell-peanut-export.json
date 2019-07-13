@@ -1,0 +1,290 @@
+{
+  "article" : {
+    "-Lh83Q0aHAy97lWo7aXZ" : {
+      "synopsis" : "test52",
+      "title" : "test51222",
+      "uid" : "nLOE9T70FGR1NBBf35M7RRDcm7s2",
+      "url" : "test535"
+    },
+    "-Lh8FIpg25K_W3ASLmsW" : {
+      "synopsis" : "zyd",
+      "title" : "zyx",
+      "uid" : "nLOE9T70FGR1NBBf35M7RRDcm7s2",
+      "url" : "zyf"
+    },
+    "-LhDdiS8Ys_5-Yz1iBd-" : {
+      "synopsis" : "Twas a cool story",
+      "title" : "Cool story bro",
+      "uid" : "20UGG1WmdphLz5BD2HzdS5jChu22",
+      "url" : "https://www.reddit.com"
+    },
+    "-LhMHS8YeGjQPFjKBZL2" : {
+      "synopsis" : "Twas the night before Christmas",
+      "title" : "The coolest story bro",
+      "uid" : "20UGG1WmdphLz5BD2HzdS5jChu22",
+      "url" : "https://www.google.com"
+    },
+    "-LhPEAfybPKi7juYdaXc" : {
+      "synopsis" : "test 89 is great",
+      "title" : "test89",
+      "uid" : "nLOE9T70FGR1NBBf35M7RRDcm7s2",
+      "url" : "http://www.test89.com"
+    },
+    "-LhQ55eWcLwKgvdCwVAD" : {
+      "synopsis" : "Get educated on some peanuts",
+      "title" : "Peanuts 101",
+      "uid" : "2ZlvP1oc6Ag3g5nunNNhoIxPAEu1",
+      "url" : "https://www.healthline.com/nutrition/foods/peanuts"
+    },
+    "-LhQ5UELi6zNmFf0ZYQ4" : {
+      "synopsis" : "The life story of the beloved legume",
+      "title" : "Wonderful History of Peanuts",
+      "uid" : "2ZlvP1oc6Ag3g5nunNNhoIxPAEu1",
+      "url" : "https://www.nationalpeanutboard.org/peanut-info/history-peanuts-peanut-butter.htm"
+    },
+    "article5" : {
+      "synopsis" : "Super dank article5 synopsis",
+      "title" : "Article 5 Title",
+      "uid" : "nLOE9T70FGR1NBBf35M7RRDcm7s2",
+      "url" : "https://www.google.com"
+    }
+  },
+  "entry" : {
+    "-LhD2H0NGFh9IEUXg-MM" : {
+      "date" : "2019-06-12T18:36:51",
+      "entry" : "<pre id=\"lyric-body-text\" class=\"lyric-body wselect-cnt\" dir=\"ltr\" data-lang=\"en\" style=\"font-family: &quot;Droid Sans&quot;, sans-serif; font-size: 17px; padding: 9.5px; margin-bottom: 10px; line-height: 26px; color: rgb(51, 51, 51); word-break: break-word; overflow-wrap: break-word; background-color: rgb(255, 255, 255); border: none; border-radius: 4px; white-space: pre-wrap; text-align: start; cursor: alias !important;\">We're no <a href=\"https://www.definitions.net/definition/strangers\" style=\"color: rgb(34, 34, 34);\">strangers</a> to love\nYou know the <a href=\"https://www.definitions.net/definition/rules\" style=\"color: rgb(34, 34, 34);\">rules</a> and so do I\nA full commitment's what I'm <a href=\"https://www.definitions.net/definition/thinking\" style=\"color: rgb(34, 34, 34);\">thinking</a> of\nYou wouldn't get this from any <a href=\"https://www.definitions.net/definition/other\" style=\"color: rgb(34, 34, 34);\">other</a> guy\n\nI just want to tell you how I'm feeling\nGotta make you understand\n\nNever <a href=\"https://www.definitions.net/definition/gonna\" style=\"color: rgb(34, 34, 34);\">gonna</a> give you up, <a href=\"https://www.definitions.net/definition/never\" style=\"color: rgb(34, 34, 34);\">never</a> gonna let you down\nNever <a href=\"https://www.definitions.net/definition/gonna\" style=\"color: rgb(34, 34, 34);\">gonna</a> run <a href=\"https://www.definitions.net/definition/around\" style=\"color: rgb(34, 34, 34);\">around</a> and <a href=\"https://www.definitions.net/definition/desert\" style=\"color: rgb(34, 34, 34);\">desert</a> you\nNever <a href=\"https://www.definitions.net/definition/gonna\" style=\"color: rgb(34, 34, 34);\">gonna</a> make you cry, <a href=\"https://www.definitions.net/definition/never\" style=\"color: rgb(34, 34, 34);\">never</a> gonna say goodbye\nNever <a href=\"https://www.definitions.net/definition/gonna\" style=\"color: rgb(34, 34, 34);\">gonna</a> tell a lie and hurt you</pre>",
+      "title" : "Never Going to Give You Up",
+      "uid" : "2ZlvP1oc6Ag3g5nunNNhoIxPAEu1"
+    },
+    "-LhDd_SDppDticuSXB0c" : {
+      "date" : "2019-06-12T21:24",
+      "entry" : "This is my first diary entry!",
+      "title" : "Ralph's First Diary Entry",
+      "uid" : "20UGG1WmdphLz5BD2HzdS5jChu22"
+    },
+    "-LhMHLj1PRE2VRxfcQ6T" : {
+      "date" : "2019-06-14T14:39",
+      "entry" : "This is the best entry.",
+      "title" : "Inigo Montoya's Entry ",
+      "uid" : "20UGG1WmdphLz5BD2HzdS5jChu22"
+    },
+    "-LhQ3YqD4N1kiUynb3R1" : {
+      "date" : "2019-06-15T07:17",
+      "entry" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mattis, ligula commodo bibendum ullamcorper, eros purus euismod lorem, et fermentum tellus eros vel felis. Sed auctor lacus in nisl porttitor fringilla. Ut a arcu non nulla venenatis auctor quis ut nulla. Duis feugiat commodo dui efficitur mollis. Cras porttitor sem et mi bibendum, ac feugiat nisi fermentum. Duis eleifend scelerisque nunc vel ornare. In hac habitasse platea dictumst. In vehicula lectus ac tempus pretium.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed mattis, ligula commodo bibendum ullamcorper, eros purus euismod lorem, et fermentum tellus eros vel felis. Sed auctor lacus in nisl porttitor fringilla. Ut a arcu non nulla venenatis auctor quis ut nulla. Duis feugiat commodo dui efficitur mollis. Cras porttitor sem et mi bibendum, ac feugiat nisi fermentum. Duis eleifend scelerisque nunc vel ornare. In hac habitasse platea dictumst. In vehicula lectus ac tempus",
+      "title" : "Dear Lorem",
+      "uid" : "2ZlvP1oc6Ag3g5nunNNhoIxPAEu1"
+    },
+    "-LhQI3JuipFGrKDrIPs9" : {
+      "date" : "2019-06-15T08:20",
+      "entry" : "Welcome",
+      "title" : "Hello",
+      "uid" : "2ZlvP1oc6Ag3g5nunNNhoIxPAEu1"
+    },
+    "entry5" : {
+      "date" : "2019-06-08",
+      "entry" : "Hello world, this some cooler stuff",
+      "title" : "cooler entry",
+      "uid" : "nLOE9T70FGR1NBBf35M7RRDcm7s2"
+    }
+  },
+  "event" : {
+    "-Lh3IUWVtQdawu81IjYl" : {
+      "dateTime" : "2021-04-05T07:09",
+      "link" : "",
+      "title" : "123 Edit",
+      "uid" : "nLOE9T70FGR1NBBf35M7RRDcm7s2"
+    },
+    "-Lh3ImJai7EYpRu3nzpK" : {
+      "dateTime" : "2019-06-10T16:20",
+      "link" : "",
+      "title" : "hokay edit",
+      "uid" : "nLOE9T70FGR1NBBf35M7RRDcm7s2"
+    },
+    "-Lh7qPgY_ke_EphsF-mC" : {
+      "dateTime" : "2019-06-12T17:30",
+      "link" : "",
+      "title" : "Tiller Test 1",
+      "uid" : "eaQOReBQfxVNf2nsQ2MQq8BBUw43"
+    },
+    "-LhDdIo1HmM1w29OkYTv" : {
+      "dateTime" : "2019-06-20T21:20",
+      "link" : "",
+      "title" : "Parties are fun.",
+      "uid" : "20UGG1WmdphLz5BD2HzdS5jChu22"
+    },
+    "-LhDdM1KhkYnSecpGJUL" : {
+      "dateTime" : "2019-06-16T16:20",
+      "link" : "",
+      "title" : "Party Party Party",
+      "uid" : "20UGG1WmdphLz5BD2HzdS5jChu22"
+    },
+    "-LhDdP_rBQx5yS3sKHxT" : {
+      "dateTime" : "2019-06-29T14:20",
+      "link" : "",
+      "title" : "Ralph's Party",
+      "uid" : "20UGG1WmdphLz5BD2HzdS5jChu22"
+    },
+    "-LhGTRkIouEK8cTfG3-X" : {
+      "dateTime" : "2019-09-13T16:20",
+      "link" : "",
+      "title" : "Its l",
+      "uid" : "2ZlvP1oc6Ag3g5nunNNhoIxPAEu1"
+    },
+    "-LhMHWpMtQ2_Rg6UdOV8" : {
+      "dateTime" : "2019-06-20T18:20",
+      "link" : "",
+      "title" : "Fiesta Fiesta Fiesta",
+      "uid" : "20UGG1WmdphLz5BD2HzdS5jChu22"
+    }
+  },
+  "message" : {
+    "-LhDHKOC9-D3-69dYmmm" : {
+      "message" : "ain't nothing but a hearlkjlkjtache",
+      "timestamp" : "2019-06-13T00:42:37.402Z",
+      "uid" : "2ZlvP1oc6Ag3g5nunNNhoIxPAEu1"
+    },
+    "-LhDIMrwPH7hDjNBv6qN" : {
+      "message" : "ain't nothin but a mistake",
+      "timestamp" : "2019-06-13T00:47:09.692Z",
+      "uid" : "2ZlvP1oc6Ag3g5nunNNhoIxPAEu1"
+    },
+    "-LhDIO-qjZUE8YHZ3rfZ" : {
+      "message" : "tell me why",
+      "timestamp" : "2019-06-13T00:47:14.425Z",
+      "uid" : "2ZlvP1oc6Ag3g5nunNNhoIxPAEu1"
+    },
+    "-LhDIOdfr3-J0KczUU2h" : {
+      "message" : "I never wanna hear you say",
+      "timestamp" : "2019-06-13T00:47:16.966Z",
+      "uid" : "2ZlvP1oc6Ag3g5nunNNhoIxPAEu1"
+    },
+    "-LhDPzXabLFsbJa0ygxi" : {
+      "message" : "test",
+      "timestamp" : "2019-06-13T01:20:30.482Z",
+      "uid" : "nLOE9T70FGR1NBBf35M7RRDcm7s2"
+    },
+    "-LhGV3BNWzd_5aFDRuuh" : {
+      "message" : "lkjljlkj",
+      "timestamp" : "2019-06-13T15:41:28.565Z",
+      "uid" : "2ZlvP1oc6Ag3g5nunNNhoIxPAEu1"
+    },
+    "-LhGWjY5XiR-sUjnj_tY" : {
+      "message" : "howdy friends",
+      "timestamp" : "2019-06-13T15:48:48.281Z",
+      "uid" : "2ZlvP1oc6Ag3g5nunNNhoIxPAEu1"
+    },
+    "-LhGWo1ObMA5fI2CPg07" : {
+      "message" : "l",
+      "timestamp" : "2019-06-13T15:49:06.672Z",
+      "uid" : "2ZlvP1oc6Ag3g5nunNNhoIxPAEu1"
+    },
+    "-LhGWoREzJjX7qsyCIVs" : {
+      "message" : "hkjh",
+      "timestamp" : "2019-06-13T15:49:08.406Z",
+      "uid" : "2ZlvP1oc6Ag3g5nunNNhoIxPAEu1"
+    },
+    "-LhGWoqKq2aMbP3mkqq8" : {
+      "message" : "kjhkjhkhj",
+      "timestamp" : "2019-06-13T15:49:10.078Z",
+      "uid" : "2ZlvP1oc6Ag3g5nunNNhoIxPAEu1"
+    },
+    "-LhKzz4DBskWelz8Grdf" : {
+      "message" : "This styling looks great.",
+      "timestamp" : "2019-06-14T12:39:25.092Z",
+      "uid" : "20UGG1WmdphLz5BD2HzdS5jChu22"
+    },
+    "-LhMG6GEg3DsB_livbsA" : {
+      "message" : "Just making sure the timestamp replacement is working",
+      "timestamp" : "2019-06-14T18:33:52.374Z",
+      "uid" : "20UGG1WmdphLz5BD2HzdS5jChu22"
+    },
+    "-LhMHEFvX9bSxsWdpFSB" : {
+      "message" : "yoohoo!",
+      "timestamp" : "2019-06-14T18:38:47.273Z",
+      "uid" : "20UGG1WmdphLz5BD2HzdS5jChu22"
+    },
+    "-LhMHzo7HPc1ukfufbbe" : {
+      "message" : "Is this thing on?",
+      "timestamp" : "2019-06-14T18:42:06.132Z",
+      "uid" : "20UGG1WmdphLz5BD2HzdS5jChu22"
+    },
+    "-LhPza8ZdnDMl3eu9Tub" : {
+      "message" : "lkjlkj",
+      "timestamp" : "2019-06-15T11:55:49.069Z",
+      "uid" : "2ZlvP1oc6Ag3g5nunNNhoIxPAEu1"
+    },
+    "-LhQKcuI942BXZd4cijA" : {
+      "message" : "howdy",
+      "timestamp" : "2019-06-15T13:32:07.579Z",
+      "uid" : "2ZlvP1oc6Ag3g5nunNNhoIxPAEu1"
+    },
+    "-LhQPO3my_IW3iS_MDw0" : {
+      "message" : "howdy",
+      "timestamp" : "2019-06-15T13:52:53.429Z",
+      "uid" : "2ZlvP1oc6Ag3g5nunNNhoIxPAEu1"
+    },
+    "-LhQPZX09oFenRS6715t" : {
+      "message" : "jljlkj",
+      "timestamp" : "2019-06-15T13:53:40.359Z",
+      "uid" : "2ZlvP1oc6Ag3g5nunNNhoIxPAEu1"
+    },
+    "-LhQPcqYKL_OnhmWJs6z" : {
+      "message" : "howdy",
+      "timestamp" : "2019-06-15T13:53:58.055Z",
+      "uid" : "2ZlvP1oc6Ag3g5nunNNhoIxPAEu1"
+    },
+    "-LhQTG2AafXNnQeaZRxg" : {
+      "message" : "lkjlkj",
+      "timestamp" : "2019-06-15T14:09:49.140Z",
+      "uid" : "2ZlvP1oc6Ag3g5nunNNhoIxPAEu1"
+    },
+    "-LhQVJP7WfGHQe302p8T" : {
+      "message" : "kjhkjh",
+      "timestamp" : "2019-06-15T14:18:47.191Z",
+      "uid" : "2ZlvP1oc6Ag3g5nunNNhoIxPAEu1"
+    },
+    "message1" : {
+      "id" : "messageIdExample1",
+      "message" : "What's up pals",
+      "timestamp" : "2019-02-11T00:16:43.544Z",
+      "uid" : "2ZlvP1oc6Ag3g5nunNNhoIxPAEu1"
+    }
+  },
+  "user" : {
+    "-Lh8zLvraP65NHo38yTC" : {
+      "image" : "https://image.flaticon.com/icons/svg/145/145849.svg",
+      "name" : "Greg!!",
+      "uid" : "G7QuRAF6OSbB2EdL7nG6JcD6o6f2"
+    },
+    "-LhDcNIq9jcPUcoLlM8b" : {
+      "image" : "https://image.flaticon.com/icons/svg/145/145843.svg",
+      "name" : "poo",
+      "uid" : "ptJQBoWdz9Vs24P3xDEiSSBCELP2"
+    },
+    "-LhDcq11SuUMB_AwraTC" : {
+      "image" : "https://image.flaticon.com/icons/svg/145/145847.svg",
+      "name" : "Emily DeWitt",
+      "uid" : "20UGG1WmdphLz5BD2HzdS5jChu22"
+    },
+    "-LhZng_nS6zQvbg_7SM9" : {
+      "image" : "https://image.flaticon.com/icons/svg/145/145844.svg",
+      "name" : "Brian",
+      "uid" : "RnckTEhfTZPeOcxgPa8w9DiYwIR2"
+    },
+    "user3" : {
+      "image" : "https://cdn0.iconfinder.com/data/icons/thanksgiving-goodies-filled/64/pine_nut-512.png",
+      "name" : "Andrew",
+      "uid" : "nLOE9T70FGR1NBBf35M7RRDcm7s2"
+    },
+    "user4" : {
+      "image" : "https://image.flaticon.com/icons/svg/145/145843.svg",
+      "name" : "Heath",
+      "uid" : "2ZlvP1oc6Ag3g5nunNNhoIxPAEu1"
+    },
+    "user5" : {
+      "image" : "https://cdn4.iconfinder.com/data/icons/food-4-9/128/food_Pista-Pistachio-Nut-Nuts-512.png",
+      "name" : "Some other guy",
+      "uid" : "otherUser"
+    }
+  }
+}
